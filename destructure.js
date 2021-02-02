@@ -19,9 +19,10 @@ console.log(eka, doka);
 console.log(nextAll);
 
 
+
 //Complex Object Example
 const complexObject = {
-    uName: 'abc',
+    uName: 'abcd',
     info: {
         roll: 170,
         phoneNo: '0173152'
